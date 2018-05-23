@@ -83,7 +83,7 @@ q)show foo:42 43 44
 42 43 44
 q)foo[1]:100
 q)foo
-42 100 43
+42 100 44
 ```
 Amendment through assignment can be modified by any operator. 
 ```q
